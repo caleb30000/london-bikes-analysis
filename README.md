@@ -1,0 +1,2 @@
+Completing this project involves gathering data programmatically using the Kaggle API, which allowed me to access a large dataset without having to manually download it. Then, I used the powerful pandas library in Python to explore, wrangle, and manipulate the data, ensuring that it was in the correct format for analysis.
+Finally, I used Tableau to visualize the data and gain insights that would be useful for decision-making. The visualization allowed me to present complex information in a way that was easy to understand and interpret. Find attached all related documents
